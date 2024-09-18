@@ -1,7 +1,7 @@
 # Reboot Server
 ### Small Windows TCP/IP server that triggers a system reboot upon receiving the right message
-
-Instructions:
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+## Instructions
  1. Launch the executable
  1. Grant network permissions
  1. Program binds to port 1234
